@@ -4,7 +4,7 @@ to answer the question of to what extent the neighbourhood green space meet the 
 ## 1. Data processing: clean the questionnaire data
    (1) **Input:** the csv file of the questionnaire data about the visit frequency and visit duration of 1000 respondents to 
          the neighbourhood green spaces \(NGS\) and further green spaces \(GS\). This data is confidential and not 
-uploaded.  
+uploaded. Authorised users can find it [here](https://drive.google.com/drive/folders/1McIFiBo1b0_VTk6t1Nirh8N6gicDtNMF?usp=sharing).
 
    (2) **Output:** two csv files of NGS and GS visits respectively. Each file contains three columns:
 MSNO \(respondent ID\), total_dur \(total visit duration for this respondent in last year\), and
